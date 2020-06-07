@@ -20,5 +20,12 @@
 
 .Caja {
   text-align: center;
-  margin-top: 100px;
+  margin-top: 70px;
+}
+
+.certi {
+  text-align: center;
+  width: 70%;
+  margin-top: 70px;
+  margin-bottom: 70px;
 }
