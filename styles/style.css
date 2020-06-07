@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  background: black;
+}
+
+.Titulo {
+  color: #f4f6ff;
+  text-align: center;
+  margin-top: 15px;
+  font-size: 50px;
+}
